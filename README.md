@@ -6,3 +6,4 @@ O modelo se baseia no shema de HR (Human Resources) da ORACLE. Porém, foi adapt
 
 ## 2. Modelo base
 
+![modelo](/source/modelo.pdf)
